@@ -1,0 +1,3 @@
+Flask
+-e git+https://github.com/digital-land/digital-land-frontend.git#egg=digital_land_frontend
+python-dotenv

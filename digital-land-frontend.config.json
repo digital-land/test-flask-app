@@ -1,0 +1,4 @@
+{
+  "jsOutputPath": "application/static/javascripts",
+  "stylesheetsOutputPath": "application/static/stylesheets"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "flask-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "nps": "nps -c ./node_modules/digital-land-frontend/package-scripts.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "digital-land-frontend": "file:../digital-land-frontend/package"
+  }
+}
